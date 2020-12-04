@@ -1,4 +1,4 @@
-![alt tag](readme/rbc_logo.png)
+![alt tag](readme/rbc-icap.png)
 # Artifacts for the OpenMRS distribution for Rwanda
 
 This repository maintains the 'distro POM' for the OpenMRS distribution for Rwanda. It downloads and brings in one place all artifacts needed by the distribution, simply run:
